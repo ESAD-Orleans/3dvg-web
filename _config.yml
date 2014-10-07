@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Il sera complémentaire aux séances dirigées par Nicolas Tilly.
 baseurl: "/3dvg-web" # the subpath of your site, e.g. /blog/
 url: "http://esad-orleans.github.io" # the base hostname & protocol for your site
-twitter_username: _panpan
+twitter_username: ESADOrleans
 github_username:  esad-orleans
 
 # Build settings
