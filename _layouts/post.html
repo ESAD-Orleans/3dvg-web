@@ -12,4 +12,12 @@ layout: default
     {{ content }}
   </article>
 
+	{% if page.tags %}
+	<h2>mots-clés</h2>
+	<ul class="post-tags">{% for tag in page.tags %}
+		<li>{{ tag }}</li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+
 </div>
