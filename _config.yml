@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Web 3DVG
+email: avioly@esad-orleans.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  L’objectif du cours, sur un semestre, est de découvrir — par la pratique — les fondamentaux du web.
+  Il vise à donner aux étudiants des moyens de comprendre, mettre en œuvre une page web.
+  Il sera complémentaire aux séances dirigées par Nicolas Tilly.
+baseurl: "/3dvg-web" # the subpath of your site, e.g. /blog/
+url: "http://esad-orleans.github.io" # the base hostname & protocol for your site
+twitter_username: _panpan
+github_username:  esad-orleans
 
 # Build settings
 markdown: kramdown
