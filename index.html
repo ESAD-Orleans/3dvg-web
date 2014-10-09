@@ -11,12 +11,12 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts reversed %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	      <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
         </h2>
-      </li>
+	      </li>
     {% endfor %}
   </ul>
 

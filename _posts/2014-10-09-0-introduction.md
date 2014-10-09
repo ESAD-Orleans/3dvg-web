@@ -24,10 +24,11 @@ Le html est devenu un **format** universel pour mettre en page des documents, et
 Ainsi, de nombreux logiciel sont capable de publier des documents HTML sans devoir coder.
 On peut penser à Acrobat, Word, Photoshop, Indesign, …
 
-HTML : HyperText Markup Language
+HyperText Markup Language
 ---
 
-Le HTML est un langage formée `balises` (markup en anglais) et on peut très simplement créer un fichier .html avec un **éditeur texte** comme `notpad` ou `textedit`
+Le mot HTML est l’acronyme de **HyperText Markup Language**.
+Le HTML est ainsi un langage formée `balises` (markup en anglais) et on peut très simplement créer un fichier .html avec un **éditeur texte** comme `notpad` ou `textedit`
 
 Pour notre cours, nous utiliserons le logiciel [Brackets], plus approprié au *dévellopement* Web.
 
