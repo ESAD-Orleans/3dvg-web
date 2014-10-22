@@ -7,7 +7,7 @@ tags: html World-Wide-Web html5 balises hypertext
 ---
 
 
-à l’intérieur de **<body></body>**
+à l’intérieur de BODY
 ---
 
 la balise `<body></body>` est unique dans le document, elle englobe tout ce que l'utilisateur verra dans son navigateur.

@@ -20,6 +20,9 @@ ul.post-tags{
     font-size:$base-font-size*2;
         border-bottom: $brand-color solid 1px;
         display: inline-block;
+      code{
+        font-size:inherit;
+      }
     }
     h3{
     font-size:$base-font-size*1.8;
