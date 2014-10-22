@@ -121,7 +121,7 @@ Et voici le résultat :
 
 <img alt="class vert bleu souligné" src="/3dvg-web/images/class-bleu-vert-souligne.png" width="103" height="70" />
 
-On observe que contrairement à **l’attribut** `id` qui est unique, plusieurs **classes** peuvent être utilisée.
+On observe que contrairement à **l’attribut** `id` qui est unique, plusieurs **classes** peuvent être utilisées.
 On utilise **l’attribut** `class`, et si on veut utiliser plusieurs classes, on les **sépare par des espaces**.
 
 ## et d’autres (**pseudo-**)sélecteurs…
