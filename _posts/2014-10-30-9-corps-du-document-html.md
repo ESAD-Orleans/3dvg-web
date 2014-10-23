@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Corps du document HTML"
-date:   2014-10-23 09:45:00
+date:   2014-10-30 09:45:00
 categories: html
 tags: html World-Wide-Web html5 balises hypertext
 ---

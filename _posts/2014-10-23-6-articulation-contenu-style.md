@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Articulation contenu/style"
-date:   2014-10-16 09:45:00
+date:   2014-10-23 09:45:00
 categories: html
 tags: html css selecteurs
 
@@ -85,7 +85,7 @@ Voici un exemple d’utilisation d’**identifiant** sur 3 blocs.
 
 Les trois selecteurs permettent ici de sélectionner les trois balises, qui ont un `attribut id` et d’appliquer des tailles et couleurs d’arrière-plan.
 
-![bloc 123](/3dvg-web/images/blocs-123.png)
+<img src="/3dvg-web/images/blocs-123.png" alt="123" width="312" height="239" />
 
 Le selecteur par **id** a cependant elle aussi un problème, car l’attribut **id** doit être unique à tout le document HTML.
 
@@ -124,7 +124,7 @@ Et voici le résultat :
 On observe que contrairement à **l’attribut** `id` qui est unique, plusieurs **classes** peuvent être utilisées.
 On utilise **l’attribut** `class`, et si on veut utiliser plusieurs classes, on les **sépare par des espaces**.
 
-## et d’autres (**pseudo-**)sélecteurs…
+## et d’autres (pseudo-)sélecteurs…
 
 Il existe d’autres types de sélecteurs, que l’on nomme **pseudo-sélecteur**.
 Certains permettent de décrire des positions dans la hiérarchie HTML, d’autres des états d‘interaction de la balise — comme le survol.
@@ -141,7 +141,3 @@ Certains permettent de décrire des positions dans la hiérarchie HTML, d’autr
 Nous reviendrons plus tard sur ces nombreux pseudo-selecteurs, pseudo-classes et pseudo-éléments.
 
 
-[wikipedia]: http://fr.wikipedia.org/wiki/
-[responsivegridsystem]: http://www.responsivegridsystem.com/
-[Brackets]: http://brackets.io/
-[joelapompe]: http://www.joelapompe.net/
