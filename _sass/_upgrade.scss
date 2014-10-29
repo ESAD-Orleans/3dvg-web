@@ -37,3 +37,13 @@ ul.post-tags{
     font-size:$base-font-size*1.2;
     }
 }
+
+table{
+  border:solid $brand-color 1px;
+  border-spacing: 0;
+  border-collapse:collapse;
+  td,th{
+    border:solid $brand-color 1px;
+    text-align: center;
+  }
+}
