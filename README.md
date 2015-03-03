@@ -2,7 +2,11 @@
 
 L’objectif du cours, sur un semestre, est de découvrir — par la pratique — les fondamentaux du web. Il vise à donner aux étudiants *des* moyens de *comprendre*, *mettre en œuvre* une page web. Il sera complémentaire aux séances dirigées par Nicolas Tilly. 
 
+voir [http://esad-orleans.github.io/3dvg-web/](http://esad-orleans.github.io/3dvg-web/)
+
+
 `cette page va évoluer au cours du semestre et s’enrichira. `
+
 
 ---
 
